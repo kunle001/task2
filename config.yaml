@@ -1,3 +1,5 @@
-directory: "/Users/apple/Desktop/Work/Me/Blockchain/First"
+directory: "/Users/apple/Desktop/Work/Me"
 check_frequency: 1
 api_endpoint: "http://example.com/report"
+monitored_directory: "/Users/apple/Desktop"
+server_port: 8000
